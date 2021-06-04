@@ -17,4 +17,14 @@
 **Thoughts:** Also part of the aforementioned Udemy Course, I'm trying to learn new concepts and better understand the fundamentals, so I can be more flexible and diverse in my various implementations of CNNs.
 
 **Link to work:** https://github.com/Timmyy3000/CNN, Project is already up on github and linked here 
+----
+
+### Day 3: June 4, 2021
+
+**Today's Progress**: More CNNs
+
+**Thoughts:** Picked up from yesterday, still learning a lot about CNNs and their architectures 
+
+**Link to work:** https://github.com/Timmyy3000/CNN, Project is already up on github and linked here 
+
 
