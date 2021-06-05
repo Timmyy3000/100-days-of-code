@@ -33,7 +33,7 @@
 
 **Today's Progress**: Completed the CNN part of the series 
 
-**Thoughts:** It was a basic CNN classifier trained to categorize Dog and Cat images. Planning to expand upon this idea though
+**Thoughts:** It was a basic CNN classifier trained to categorize Dog and Cat images. Planning to expand upon this idea though ^_^
 
 **Link to work:** https://github.com/Timmyy3000/CNN, Project is already up on github and linked here 
 
