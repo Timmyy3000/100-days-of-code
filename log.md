@@ -29,4 +29,15 @@
 
 **Link to work:** https://github.com/Timmyy3000/CNN, Project is already up on github and linked here 
 
+### Day 4: June 5, 2021
+
+**Today's Progress**: Completed the CNN part of the series 
+
+**Thoughts:** It was a basic CNN classifier trained to categorize Dog and Cat images. Planning to expand upon this idea though
+
+**Link to work:** https://github.com/Timmyy3000/CNN, Project is already up on github and linked here 
+
+----
+
+
 
