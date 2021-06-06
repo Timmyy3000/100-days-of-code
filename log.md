@@ -39,5 +39,15 @@
 
 ----
 
+### Day 5: June 6, 2021
+
+**Today's Progress**: Made the previous CNN into an interactive web app
+
+**Thoughts:**  Deployed the model on Heroku using Streamlit. Now it's an accessible interactive web app ✨
+
+**Link to work:** https://pet-cnn-classifier.herokuapp.com/ Check it out here 
+
+----
+
 
 
