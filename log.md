@@ -49,5 +49,13 @@
 
 ----
 
+### Day 6: June 7, 2021
+
+**Today's Progress**: Research, research, research!!!
+
+**Thoughts:**  Spent most of today just learning new concepts and techniques in deep learning
+
+----
+
 
 
