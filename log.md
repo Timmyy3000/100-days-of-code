@@ -57,5 +57,13 @@
 
 ----
 
+### Day 7: June 8, 2021
+
+**Today's Progress**: Started to look into Tensorflow's object detection API 
+
+**Thoughts:**  Trying to build upon what I've learnt in ANN and CNNs, and combining that with Tensorflow's extensize library
+
+----
+
 
 
