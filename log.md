@@ -67,9 +67,9 @@
 
 ### Day 8: June 9, 2021
 
-**Today's Progress**: Working on using Tensorflows Object detection API to make a Real Time Face mask detector
+**Today's Progress**: Working on using Tensorflows Object detection API to make a Real Time Face Mask detector
 
-**Thoughts:**  This is a relatively new approach for mw, so I want to work on the fundamentals and tackle light projects witth this
+**Thoughts:**  This is a relatively new approach for me, so I want to work on the fundamentals and tackle light projects with this tool
 
 ----
 
