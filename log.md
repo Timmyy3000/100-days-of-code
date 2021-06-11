@@ -67,21 +67,18 @@
 
 ### Day 8: June 9, 2021
 
-**Today's Progress**: Working on using Tensorflows Object detection API to make a Real Time Face Mask detector contd
-
-**Thoughts:** the set-up is mind-blowingly cumbersome 💀
-
-Link
-----
-
-### Day 8: June 9, 2021
-
 **Today's Progress**: Working on using Tensorflows Object detection API to make a Real Time Face Mask detector
 
 **Thoughts:**  This is a relatively new approach for me, so I want to work on the fundamentals and tackle light projects with this tool
 
-**Link to work:** https://github.com/Timmyy3000/face-mask-detector, Project is already up on github and linked here 
 
 ----
 
+### Day 8: June 9, 2021
+
+**Today's Progress**: Working on using Tensorflows Object detection API to make a Real Time Face Mask detector contd
+
+**Thoughts:** the set-up is mind-blowingly cumbersome 💀
+
+**Link to work:** https://github.com/Timmyy3000/face-mask-detector, Project is already up on github and linked here 
 
