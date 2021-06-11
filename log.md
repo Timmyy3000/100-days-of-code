@@ -74,7 +74,7 @@
 
 ----
 
-### Day 8: June 9, 2021
+### Day 9: June 11, 2021
 
 **Today's Progress**: Working on using Tensorflows Object detection API to make a Real Time Face Mask detector contd
 
