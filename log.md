@@ -92,3 +92,13 @@
 
 **Link to work:** https://github.com/Timmyy3000/face-mask-detector, Project is already up on github and linked here 
 
+----
+
+### Day 11: June 13, 2021
+
+**Today's Progress**: Finally finished the Real Time Face Mask detector
+
+**Thoughts:** Training will be done over night because it takes a significant amount of time
+
+**Link to work:** https://github.com/Timmyy3000/face-mask-detector, Project is already up on github and linked here 
+
