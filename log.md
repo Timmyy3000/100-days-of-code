@@ -111,6 +111,7 @@
 **Thoughts:** Test ran model today and made few notes for improvements
 
 **Link to work:** https://github.com/Timmyy3000/face-mask-detector, Project is already up on github and linked here 
+
 ----
 
 ### Day 13: June 17, 2021
