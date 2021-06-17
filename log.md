@@ -102,3 +102,23 @@
 
 **Link to work:** https://github.com/Timmyy3000/face-mask-detector, Project is already up on github and linked here 
 
+----
+
+### Day 12: June 14, 2021
+
+**Today's Progress**: Finally finished the Real Time Face Mask detector
+
+**Thoughts:** Test ran model today and made few notes for improvements
+
+**Link to work:** https://github.com/Timmyy3000/face-mask-detector, Project is already up on github and linked here 
+----
+
+### Day 13: June 17, 2021
+
+**Today's Progress**: Throwing my hands at Pathfinding algorithms
+
+**Thoughts:** Trying to visualize the A* pathfinding algorithm 
+
+**Link to work:** https://github.com/Timmyy3000/pathfinding, Project is already up on github and linked here 
+
+----
