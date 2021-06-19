@@ -123,3 +123,13 @@
 **Link to work:** https://github.com/Timmyy3000/pathfinding, Project is already up on github and linked here 
 
 ----
+
+### Day 14: June 18, 2021
+
+**Today's Progress**: Completed A* PAthfinding visualization 
+
+**Thoughts:** Path finding visualizations are so cool to play around with. P.S Ialso did some updates to my CustomerManagement django project
+
+**Link to work:** https://github.com/Timmyy3000/pathfinding, Project is already up on github and linked here 
+
+----
