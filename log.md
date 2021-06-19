@@ -133,3 +133,13 @@
 **Link to work:** https://github.com/Timmyy3000/pathfinding, Project is already up on github and linked here 
 
 ----
+
+### Day 15: June 19, 2021
+
+**Today's Progress**: Started a DjangoXReact project called "Groove Hub"
+
+**Thoughts:** An attempt to practise more on frontend development
+
+**Link to work:** https://github.com/Timmyy3000/pathfinding, Project is already up on github and linked here 
+
+----
