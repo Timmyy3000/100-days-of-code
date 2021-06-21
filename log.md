@@ -140,6 +140,20 @@
 
 **Thoughts:** An attempt to practise more on frontend development
 
-**Link to work:** https://github.com/Timmyy3000/pathfinding, Project is already up on github and linked here 
+----
+
+### Day 16: June 20, 2021
+
+**Today's Progress**: DjangoXReact project called "Groove Hub"contd
+
+**Thoughts:** App development underwayyyyy
+
+----
+
+### Day 17: June 21, 2021
+
+**Today's Progress**:  DjangoXReact project called "Groove Hub" contd
+
+**Thoughts:** App development underwayyyyyyyyy. This has been a very insightful experience
 
 ----
