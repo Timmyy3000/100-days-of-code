@@ -157,3 +157,22 @@
 **Thoughts:** App development underwayyyyyyyyy. This has been a very insightful experience
 
 ----
+### Day 18: June 22, 2021
+
+**Today's Progress**:  DjangoXReact project called "Groove Hub" contd
+
+**Thoughts:** Alot of back end bugs and fixes
+----
+
+### Day 19: June 23, 2021
+
+**Today's Progress**:  DjangoXReact project called "Groove Hub" contd
+
+**Thoughts:** APP FULLY FUNCTIONAL AND TESTED XD
+
+----
+
+One Week Haitus Cause I Was Down With Malaria 
+
+----
+
